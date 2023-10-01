@@ -1,0 +1,17 @@
+{
+  "name": "async-landing-airsoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Diego Toro <dtoro.a.s@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
